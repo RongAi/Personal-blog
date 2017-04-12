@@ -1,0 +1,8 @@
+title: Personal-blog
+description: Establish a personal blog, share learning IT knowledge, to aspire to the other shore.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
